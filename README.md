@@ -14,6 +14,7 @@ Python-Pandas Source Code : RollerCoaster-DataAnalysis.ipynb
 Step 1 : Data Understanding using following topics
  - Dataframe Shape, head and tail, dtypes, info, describe
  
+ 
 Step 2 : Data Preparation
  - Dropping irrelavent columns ans rows
  - Identifying duplicated columns
@@ -21,12 +22,14 @@ Step 2 : Data Preparation
  - cleaning null values, remove duplicated values
  - Feature creation
  
+ 
 Step 3 : Feature Understandings, Univariate Analysis
  - Plotting Feature Distributions
  - Histograms
  - KDE
  - Boxplot
-  
+ 
+ 
 Step 4 : Feature Relationships
  - ScatterPlot
  - Heatmap Correlation
