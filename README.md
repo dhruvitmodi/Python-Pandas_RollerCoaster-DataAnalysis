@@ -1,4 +1,4 @@
-# Python_Pandas_RollerCoaster-DataAnalysis
+# Python-Pandas_RollerCoaster-DataAnalysis
 
 Analysis of RollerCoaster data data (raw .csv file) using Python-Pandas,
 basic and step by step process for cleaning data to data analysis, create visualization
