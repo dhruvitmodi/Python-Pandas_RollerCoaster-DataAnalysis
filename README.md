@@ -9,6 +9,8 @@ RawData File : RollerCoaster_Raw_Data.csv
 
 Python-Pandas Source Code : RollerCoaster-DataAnalysis.ipynb
 
+Final Output : RoalerCoaster-FinalAnalysis.pdf
+
 ---------------------------------------
 
 Step 1 : Data Understanding using following topics
