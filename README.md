@@ -37,3 +37,19 @@ Step 4 : Feature Relationships
  - Heatmap Correlation
  - Pairplot
  - Groupby Comparisons
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Various Graphs for Roller coaster's different Parameters
+
+![2](https://user-images.githubusercontent.com/19344819/231371019-39046303-ea87-44c5-bf91-54ad21d6b4c7.PNG)
+
+![Coaster_SpeedVsLocation](https://user-images.githubusercontent.com/19344819/231370835-52bc8689-71ae-4085-bc22-a87228fb0174.PNG)
+
+![SpeedVsHeight](https://user-images.githubusercontent.com/19344819/231370783-eeb0486b-f593-4bab-9a22-147cc6c2a32a.PNG) 
+
+![3](https://user-images.githubusercontent.com/19344819/231371048-1e377bab-93f9-4265-ba22-ac5214330597.PNG)
+
+
+
+
